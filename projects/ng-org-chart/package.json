@@ -1,0 +1,34 @@
+{
+  "name": "@waghmarepb/ng-org-chart",
+  "version": "0.0.2",
+  "description": "A flexible and customizable organization chart library for Angular applications",
+  "keywords": [
+    "angular",
+    "organization chart",
+    "org chart",
+    "organizational structure",
+    "hierarchy",
+    "chart",
+    "tree",
+    "diagram"
+  ],
+  "author": "Pratik Waghmare",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waghmarepb/ng-org-chart"
+  },
+  "homepage": "https://github.com/waghmarepb/ng-org-chart",
+  "bugs": {
+    "url": "https://github.com/waghmarepb/ng-org-chart/issues"
+  },
+  "peerDependencies": {
+    "@angular/common": "^17.3.0",
+    "@angular/core": "^17.3.0",
+    "@angular/forms": "^17.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
