@@ -23,7 +23,7 @@ This repository contains a flexible and customizable Angular library for creatin
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/org-chart-lib.git
+git clone https://github.com/waghmarepb/org-chart-lib.git
 cd org-chart-lib
 
 # Install dependencies
